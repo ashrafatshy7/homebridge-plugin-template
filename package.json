@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "HB-Ashraf",
+  "displayName": "HB Ash",
   "type": "module",
   "version": "1.0.0",
   "private": true,
@@ -40,5 +40,8 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3",
     "typescript-eslint": "^8.12.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
   }
 }
