@@ -7,7 +7,7 @@ import { PLATFORM_NAME } from './settings.js';
  * This method registers the platform with Homebridge
  */
 
-console.log("ESP32LED Plugin Loaded");
+console.log("ESP32LED Plugin Loaded"); // Debug message
 
 
 export default (api: API) => {
