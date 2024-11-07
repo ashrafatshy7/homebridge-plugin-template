@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "HomebridgePlugin",
+  "pluginAlias": "ESP32LED",
   "pluginType": "platform",
   "singular": true,
   "schema": {
